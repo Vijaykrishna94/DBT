@@ -1,0 +1,7 @@
+dagster
+dagster-cloud
+dagster-dbt
+dbt-snowflake<1.9
+
+[dev]
+dagster-webserver
